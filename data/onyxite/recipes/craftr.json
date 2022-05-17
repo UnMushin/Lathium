@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:titanium_nugget"
+    },
+    "1": {
+      "item": "onyxite:titanium_nugget"
+    },
+    "2": {
+      "item": "onyxite:titanium_nugget"
+    },
+    "3": {
+      "item": "onyxite:titanium_nugget"
+    },
+    "4": {
+      "item": "onyxite:titanium_nugget"
+    },
+    "5": {
+      "item": "onyxite:titanium_nugget"
+    }
+  },
+  "result": {
+    "item": "onyxite:titanium_ingot",
+    "count": 1
+  }
+}

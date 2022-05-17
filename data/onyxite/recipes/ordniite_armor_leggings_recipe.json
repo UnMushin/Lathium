@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:ordniite"
+    },
+    "1": {
+      "item": "onyxite:ordniite"
+    },
+    "2": {
+      "item": "onyxite:ordniite"
+    },
+    "3": {
+      "item": "onyxite:ordniite"
+    },
+    "5": {
+      "item": "onyxite:ordniite"
+    },
+    "6": {
+      "item": "onyxite:ordniite"
+    },
+    "8": {
+      "item": "onyxite:ordniite"
+    }
+  },
+  "result": {
+    "item": "onyxite:ordniite_armor_leggings",
+    "count": 1
+  }
+}

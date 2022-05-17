@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:arsundum_ingot"
+    },
+    "2": {
+      "item": "onyxite:arsundum_ingot"
+    },
+    "3": {
+      "item": "onyxite:arsundum_ingot"
+    },
+    "5": {
+      "item": "onyxite:arsundum_ingot"
+    }
+  },
+  "result": {
+    "item": "onyxite:arsundum_armor_boots",
+    "count": 1
+  }
+}

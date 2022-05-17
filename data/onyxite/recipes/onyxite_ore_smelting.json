@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 6.3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "onyxite:onyxite_ore"
+  },
+  "result": {
+    "item": "onyxite:onyxite_ingot"
+  }
+}

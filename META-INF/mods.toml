@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="onyxite"
+version="2.5.0"
+displayName="Onyxite"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="UnMushin,MCreator"
+description='''
+Onyxite is BACK with a big update and many items. The Cursed Update.
+'''
+
+[[dependencies.onyxite]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

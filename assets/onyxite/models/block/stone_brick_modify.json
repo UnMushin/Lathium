@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "onyxite:blocks/stone_brick_modify2",
+    "up": "onyxite:blocks/stone_brick_modify2",
+    "north": "onyxite:blocks/stone_brick_modify2",
+    "east": "onyxite:blocks/stone_brick_modify2",
+    "south": "onyxite:blocks/stone_brick_modify2",
+    "west": "onyxite:blocks/stone_brick_modify2",
+    "particle": "onyxite:blocks/stone_brick_modify2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "1": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "2": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "3": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "5": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "6": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "8": {
+      "item": "onyxite:hyaltime_dust"
+    }
+  },
+  "result": {
+    "item": "onyxite:hyaltime_armor_leggings",
+    "count": 1
+  }
+}

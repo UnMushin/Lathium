@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "2": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "3": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "4": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "5": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "6": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "7": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "8": {
+      "item": "onyxite:hyaltime_dust"
+    }
+  },
+  "result": {
+    "item": "onyxite:hyaltime_armor_chestplate",
+    "count": 1
+  }
+}

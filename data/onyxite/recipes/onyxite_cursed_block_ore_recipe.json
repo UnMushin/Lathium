@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:onyxite_cursed_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:onyxite_cursed_ingot",
+    "count": 9
+  }
+}

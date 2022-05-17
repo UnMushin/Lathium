@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/arsundum_ore",
+    "particle": "onyxite:blocks/arsundum_ore"
+  }
+}

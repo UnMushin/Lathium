@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:adelalerite_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:adelalerite",
+    "count": 9
+  }
+}

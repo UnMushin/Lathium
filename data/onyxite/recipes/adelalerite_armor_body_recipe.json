@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:adelalerite"
+    },
+    "2": {
+      "item": "onyxite:adelalerite"
+    },
+    "3": {
+      "item": "onyxite:adelalerite"
+    },
+    "4": {
+      "item": "onyxite:adelalerite"
+    },
+    "5": {
+      "item": "onyxite:adelalerite"
+    },
+    "6": {
+      "item": "onyxite:adelalerite"
+    },
+    "7": {
+      "item": "onyxite:adelalerite"
+    },
+    "8": {
+      "item": "onyxite:adelalerite"
+    }
+  },
+  "result": {
+    "item": "onyxite:adelalerite_armor_chestplate",
+    "count": 1
+  }
+}

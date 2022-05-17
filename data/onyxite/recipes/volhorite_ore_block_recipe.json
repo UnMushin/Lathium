@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:volhorite"
+    },
+    "1": {
+      "item": "onyxite:volhorite"
+    },
+    "2": {
+      "item": "onyxite:volhorite"
+    },
+    "3": {
+      "item": "onyxite:volhorite"
+    },
+    "4": {
+      "item": "onyxite:volhorite"
+    },
+    "5": {
+      "item": "onyxite:volhorite"
+    },
+    "6": {
+      "item": "onyxite:volhorite"
+    },
+    "7": {
+      "item": "onyxite:volhorite"
+    },
+    "8": {
+      "item": "onyxite:volhorite"
+    }
+  },
+  "result": {
+    "item": "onyxite:volhorite_block",
+    "count": 1
+  }
+}

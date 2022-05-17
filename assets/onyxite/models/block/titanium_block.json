@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/titanium_block",
+    "particle": "onyxite:blocks/titanium_block"
+  }
+}

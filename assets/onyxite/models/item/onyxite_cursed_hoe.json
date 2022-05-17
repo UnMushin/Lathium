@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "onyxite:items/onyxite_cursed_hoe"
+  }
+}

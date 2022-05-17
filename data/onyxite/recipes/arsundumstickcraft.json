@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:arsundum_ingot"
+    },
+    "1": {
+      "item": "onyxite:arsundum_ingot"
+    }
+  },
+  "result": {
+    "item": "onyxite:arsundum_stick",
+    "count": 2
+  }
+}

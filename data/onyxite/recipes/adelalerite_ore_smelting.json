@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 4.199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "onyxite:adelalerite_ore"
+  },
+  "result": {
+    "item": "onyxite:adelalerite"
+  }
+}

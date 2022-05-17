@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/iridium_block",
+    "particle": "onyxite:blocks/iridium_block"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:sapphire"
+    },
+    "2": {
+      "item": "onyxite:sapphire"
+    },
+    "3": {
+      "item": "onyxite:sapphire"
+    },
+    "4": {
+      "item": "onyxite:sapphire"
+    },
+    "5": {
+      "item": "onyxite:sapphire"
+    },
+    "6": {
+      "item": "onyxite:sapphire"
+    },
+    "7": {
+      "item": "onyxite:sapphire"
+    },
+    "8": {
+      "item": "onyxite:sapphire"
+    }
+  },
+  "result": {
+    "item": "onyxite:sapphire_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:arsundum_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:arsundum_ingot",
+    "count": 9
+  }
+}

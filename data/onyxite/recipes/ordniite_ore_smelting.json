@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "onyxite:ordniite_ore"
+  },
+  "result": {
+    "item": "onyxite:ordniite"
+  }
+}

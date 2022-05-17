@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:ordniite"
+    },
+    "2": {
+      "item": "onyxite:ordniite"
+    },
+    "3": {
+      "item": "onyxite:ordniite"
+    },
+    "5": {
+      "item": "onyxite:ordniite"
+    }
+  },
+  "result": {
+    "item": "onyxite:ordniite_armor_boots",
+    "count": 1
+  }
+}

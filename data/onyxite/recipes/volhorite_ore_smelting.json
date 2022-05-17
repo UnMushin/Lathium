@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.28,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "onyxite:volhorite_ore"
+  },
+  "result": {
+    "item": "onyxite:volhorite"
+  }
+}

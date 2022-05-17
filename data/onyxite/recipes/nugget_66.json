@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "onyxite:titanium_hoe"
+  },
+  "result": {
+    "item": "onyxite:titanium_nugget"
+  }
+}

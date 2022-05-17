@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/sapphire_ore",
+    "particle": "onyxite:blocks/sapphire_ore"
+  }
+}

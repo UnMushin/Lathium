@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:adelalerite"
+    },
+    "2": {
+      "item": "onyxite:adelalerite"
+    },
+    "3": {
+      "item": "onyxite:adelalerite"
+    },
+    "5": {
+      "item": "onyxite:adelalerite"
+    }
+  },
+  "result": {
+    "item": "onyxite:adelalerite_armor_boots",
+    "count": 1
+  }
+}

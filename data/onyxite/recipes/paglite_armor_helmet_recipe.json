@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:paglite"
+    },
+    "1": {
+      "item": "onyxite:paglite"
+    },
+    "2": {
+      "item": "onyxite:paglite"
+    },
+    "3": {
+      "item": "onyxite:paglite"
+    },
+    "5": {
+      "item": "onyxite:paglite"
+    }
+  },
+  "result": {
+    "item": "onyxite:paglite_armor_helmet",
+    "count": 1
+  }
+}

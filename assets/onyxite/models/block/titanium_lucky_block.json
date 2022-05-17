@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/titatium_luckyblock1",
+    "particle": "onyxite:blocks/titatium_luckyblock1"
+  }
+}

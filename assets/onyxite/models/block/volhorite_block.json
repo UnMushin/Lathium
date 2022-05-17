@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/volhorite_ore_block",
+    "particle": "onyxite:blocks/volhorite_ore_block"
+  }
+}

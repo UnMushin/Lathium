@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:volhorite_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:volhorite",
+    "count": 9
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:paglite"
+    },
+    "2": {
+      "item": "onyxite:paglite"
+    },
+    "3": {
+      "item": "onyxite:paglite"
+    },
+    "4": {
+      "item": "onyxite:paglite"
+    },
+    "5": {
+      "item": "onyxite:paglite"
+    },
+    "6": {
+      "item": "onyxite:paglite"
+    },
+    "7": {
+      "item": "onyxite:paglite"
+    },
+    "8": {
+      "item": "onyxite:paglite"
+    }
+  },
+  "result": {
+    "item": "onyxite:paglite_armor_chestplate",
+    "count": 1
+  }
+}

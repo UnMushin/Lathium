@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "1": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "2": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "3": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "4": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "5": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "6": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "7": {
+      "item": "onyxite:onyxitepiece"
+    },
+    "8": {
+      "item": "onyxite:onyxitepiece"
+    }
+  },
+  "result": {
+    "item": "onyxite:onyxitefragment",
+    "count": 1
+  }
+}

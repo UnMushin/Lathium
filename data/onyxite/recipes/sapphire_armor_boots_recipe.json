@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:sapphire"
+    },
+    "2": {
+      "item": "onyxite:sapphire"
+    },
+    "3": {
+      "item": "onyxite:sapphire"
+    },
+    "5": {
+      "item": "onyxite:sapphire"
+    }
+  },
+  "result": {
+    "item": "onyxite:sapphire_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:adelalerite"
+    },
+    "1": {
+      "item": "onyxite:adelalerite"
+    },
+    "2": {
+      "item": "onyxite:adelalerite"
+    },
+    "3": {
+      "item": "onyxite:adelalerite"
+    },
+    "5": {
+      "item": "onyxite:adelalerite"
+    },
+    "6": {
+      "item": "onyxite:adelalerite"
+    },
+    "8": {
+      "item": "onyxite:adelalerite"
+    }
+  },
+  "result": {
+    "item": "onyxite:adelalerite_armor_leggings",
+    "count": 1
+  }
+}

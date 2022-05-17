@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onyxite:blocks/bai_n0oes4aykbngfmsvoeorc9vvujszkjr4rmqxzlt9sl_zavis400",
+    "particle": "onyxite:blocks/bai_n0oes4aykbngfmsvoeorc9vvujszkjr4rmqxzlt9sl_zavis400"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:sapphire",
+    "count": 9
+  }
+}

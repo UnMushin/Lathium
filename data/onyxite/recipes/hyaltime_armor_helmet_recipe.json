@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "1": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "2": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "3": {
+      "item": "onyxite:hyaltime_dust"
+    },
+    "5": {
+      "item": "onyxite:hyaltime_dust"
+    }
+  },
+  "result": {
+    "item": "onyxite:hyaltime_armor_helmet",
+    "count": 1
+  }
+}

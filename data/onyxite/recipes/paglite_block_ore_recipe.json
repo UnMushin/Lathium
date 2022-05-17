@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:paglite_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:paglite",
+    "count": 9
+  }
+}

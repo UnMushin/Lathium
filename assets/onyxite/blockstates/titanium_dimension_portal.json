@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "onyxite:block/titanium_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "onyxite:block/titanium_dimension_portal_ns"
+    }
+  }
+}

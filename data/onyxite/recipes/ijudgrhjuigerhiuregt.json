@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 13,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "onyxite:onyxite_sword"
+  },
+  "result": {
+    "item": "onyxite:onyxite_nugget"
+  }
+}

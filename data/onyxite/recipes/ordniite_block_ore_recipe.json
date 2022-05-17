@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onyxite:ordniite_block"
+    }
+  ],
+  "result": {
+    "item": "onyxite:ordniite",
+    "count": 9
+  }
+}
