@@ -4,7 +4,6 @@ Hi! If YOU are here it's because you've come to see the Onyxite Source Code.
 
 
 
-![Uploading logo.png…]()
 
 
 
