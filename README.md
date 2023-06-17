@@ -1,5 +1,5 @@
 # Onyxite
-Hi! If YOU are here it's because you've come to see the Onyxite Source Code.
+Hi! If you are here it's because you've come to see the Onyxite Source Code.
 
 ![test (1)](https://github.com/UnMushin/Onyxite/blob/main/2onyxitelogo.png?raw=true)
 
